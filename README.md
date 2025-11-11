@@ -1,6 +1,8 @@
 # AI for Engineers
-This repository guides you to learn and build a solid foundation for mathematics behind Artificial Intelligent Systems, you would visualize fundamentals and their use cases.
-The course is divided into Tiers and the tiers only dictate important of the topic to AI engineering, it is not a knowledge tier but the importance to your foundation of AI engineering.
+This repository aims to guide you in step by step learning and building a solid foundation for mathematics behind Artificial Intelligent Systems for all engineering usecases, you would visualize fundamentals and their use cases.
+The course is divided into Tiers and the tiers only dictate importance of the topic to AI engineering, it is not be taken as a knowledge tier.
+
+#### Mantra: Understand - Derive - Apply - Teach Someone - Revisit | Frequency 2 – 7 – 14 – 30 days
 
 ## Tier 1 — Core Pillars (absolutely essential, used everywhere)
 ### Rank	Topic	Why It’s Critical
