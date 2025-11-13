@@ -3,7 +3,7 @@
 
 ## Objectives
 - Stability and modes
-- Eigen decomposition (2×2 intuition)
+- Eigen decomposition (3×3 intuition)
 
 ## Derivations Checklist
 - Characteristic polynomial det(A - λI) = 0
